@@ -1,0 +1,1 @@
+Server=database-1.cjrclxkmakiz.us-west-1.rds.amazonaws.com,1433;Initial Catalog=candystore;User ID=admin;Password=notpassword;Encrypt=False;
